@@ -1,0 +1,17 @@
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\netcoreapp3.1\n1_inmobiliaria.exe
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\netcoreapp3.1\n1_inmobiliaria.deps.json
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\netcoreapp3.1\n1_inmobiliaria.runtimeconfig.json
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\netcoreapp3.1\n1_inmobiliaria.runtimeconfig.dev.json
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\netcoreapp3.1\n1_inmobiliaria.dll
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\netcoreapp3.1\n1_inmobiliaria.pdb
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.csprojAssemblyReference.cache
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.Form1.resources
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.Properties.Resources.resources
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.sourse.interfaz.interfazInmobiliaria.resources
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.csproj.GenerateResource.cache
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.AssemblyInfoInputs.cache
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.AssemblyInfo.cs
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.dll
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.pdb
+C:\Users\sebastian\source\repos\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\netcoreapp3.1\n1_inmobiliaria.genruntimeconfig.cache
